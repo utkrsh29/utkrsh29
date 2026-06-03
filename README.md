@@ -8,6 +8,17 @@
 
 <br/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=utkrsh29&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=utkrsh29&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=utkrsh29&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
+<br/>
+
 ![Country Flag](https://readmeme.eu.cc/api/flag.svg?country=IN&theme=classic&label=Local+Time)
+
 
 </div>
